@@ -3,6 +3,7 @@ import React from 'react';
 class Preloader extends React.Component {
     constructor() {
         super();
+        this.state = {}
     }
 
     render() {

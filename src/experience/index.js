@@ -3,6 +3,7 @@ import React from 'react';
 class Experience extends React.Component {
     constructor() {
         super();
+        this.state = {}
     }
 
     render() {
